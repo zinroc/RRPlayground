@@ -25,9 +25,7 @@
     "react-redux": "^4.4.5",
     "react-router-dom": "^4.1.1",
     "react-router-redux": "next",
-    "redux": "^3.5.2"
-  },
-  "devDependencies": {
+    "redux": "^3.5.2",
     "autoprefixer": "^6.3.6",
     "babel-core": "^6.8.0",
     "babel-eslint": "^6.0.4",
