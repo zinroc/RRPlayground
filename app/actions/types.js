@@ -1,0 +1,8 @@
+export const FILTER = 'FILTER';
+export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER';
+export const TOGGLE_TODO = 'TOGGLE_TODO';
+export const ADD_TODO = 'ADD_TODO';
+export const UPDATE_CURRENCY_FROM = 'UPDATE_CURRENCY_FROM';
+export const UPDATE_CURRENCY_TO = 'UPDATE_CURRENCY_TO';
+export const SET_FROM_AMOUNT = 'SET_FROM_AMOUNT';
+export const SET_TO_AMOUNT = 'SET_TO_AMOUNT';
